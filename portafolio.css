@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#imgbackground{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("./img/bg.png");
+    min-height: 80vh;    
+    position: relative;
+    /*style="background-image: url(./img/bg.avif); height: 100vh;"*/ 
+}
+#bgtitulo{
+    background: rgb(245, 245, 245);
+}
+h1 {
+    text-shadow: 2px 2px 2px rgba(255, 243, 243, 0.5);
+    font-size: 3rem;
+    
+}
+#informacion{
+    background: rgb(245, 245, 245);
+}
+
+#piedp ul li{
+    background: rgb(245, 245, 245);
+}
